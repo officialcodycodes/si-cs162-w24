@@ -3,7 +3,10 @@
 Use this repository to access all of the activities and resources for the CS 162 SI table for Winter 2023!
 
 ## Downloading a folder from GitHub
-To download a folder from this repository, please use [the following guide](https://www.wikihow.com/Download-a-GitHub-Folder):
+To download a folder from this repository, please use [the following guide](https://www.wikihow.com/Download-a-GitHub-Folder).
+
+Essentially, paste a link from one of the GitHub folders into this website, and it will download a ZIP folder to your machine.
+https://download-directory.github.io/
 
 ## Valgrind
 To use Valgrind to check your code for memory leaks, use the following command:
